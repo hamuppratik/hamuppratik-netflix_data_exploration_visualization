@@ -1,1 +1,1 @@
-# hamuppratik-netflix_data_exploration_visualization - Pandas, matplot lib, seaborn
+This is just data cleaning, exploration, and visualization project. 
